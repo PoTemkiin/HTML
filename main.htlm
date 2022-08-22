@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Начало</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>В путь!</h1> 
+    <p>22.08.2022</p>
+    <p>Буду использовать этот файл для грубых набросков изученного</p>   
+    <p>пробую VS COD и ГИТ</p>
+    <p>вот такое изучил сегодня(а точнее повторил):</p>
+    <input type="button" value="Ну привет)"><br>
+    <p>Поле для пароля:</p>
+    <input type="password" name="password"><br>
+    <p>и так далее...</p>
+</body>
+</html>
